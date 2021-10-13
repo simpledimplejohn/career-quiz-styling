@@ -15,7 +15,23 @@ body {
   background-color: whitesmoke;
 }
 
+.card {
+  border: none;
+  border-radius: 8px;
+}
 
+img {
+  border-radius: 8px;
+}
+
+.top {
+  background-color: whitesmoke;
+}
+
+.front-font {
+  font-family: 'Roboto', sans-serif;
+  color: #f4c34d;
+}
 
 
 .start {
