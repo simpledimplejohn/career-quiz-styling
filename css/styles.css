@@ -37,7 +37,13 @@ img {
 }
 
 .question {
-  text-align: left;
+  display: inline-block;
+  float: left;
+}
+
+.score {
+  display: inline-block;
+  float: center;
 }
 
 .start,
