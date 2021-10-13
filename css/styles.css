@@ -22,6 +22,8 @@ body {
 
 img {
   border-radius: 8px;
+  object-fit: contain;
+  width: 100%;
 }
 
 .bottom {
