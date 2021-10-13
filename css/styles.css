@@ -35,8 +35,11 @@ img {
   font-family: 'Roboto', sans-serif;
   color: #f4c34d;
 }
+.question{
+  text-align: left;
+}
 
-.question {
+.name-left {
   display: inline-block;
   float: left;
 }
