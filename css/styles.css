@@ -48,12 +48,12 @@ img {
   display: inline-block;
   float: center;
 }
-.step {
+/* .step {
   display: none;
 }
 .step.active {
   display: block;
-}
+} */
 
 
 
